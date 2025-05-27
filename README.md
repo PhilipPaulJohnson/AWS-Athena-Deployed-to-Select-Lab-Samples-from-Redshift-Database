@@ -2,8 +2,6 @@
 
 Example of AWS Athena querying laboratory testing database for samples within specific parameters for further analysis
 
-![create project](https://github.com/user-attachments/assets/c87ca027-25e7-4f87-8775-68c7010471dc)
+![create project](https://github.com/user-attachments/assets/788ea524-793b-4013-8e77-3c736e3f1ecd)
 
-![create project](https://github.com/user-attachments/assets/fbcca8a2-242e-4739-a4d8-68039f1a5142)
-
-![SQL query thumb](https://github.com/user-attachments/assets/7c4ccffb-8839-4487-8020-f28ee15bb851)
+![SQL query](https://github.com/user-attachments/assets/3e3e84fb-e4e2-44c1-94a5-e30546717af2)
